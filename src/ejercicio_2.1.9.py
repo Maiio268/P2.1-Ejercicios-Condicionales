@@ -3,16 +3,3 @@
 # Si el cliente es menor de 4 años puede entrar gratis, si tiene entre 4 y 18 años debe pagar 5€ y si es mayor de 18 años, 10€.
 
 
-
-
-
-def main():
-    # Entrada
-    
-    # Procesamiento
-    
-    # Salida
-    
-
-if __name__ == "__main__":
-    main()
